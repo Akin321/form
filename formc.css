@@ -1,0 +1,8 @@
+body{margin:20px;}
+h1{text-align:center}
+*{box-sizing:border-box;}
+input{ width:100%;}
+input:focus{background-color:lightblue;}
+input[type=submit] {background-color:green;width:10%;text-align:center;}
+input[type=submit]:hover{width:100%}
+.container{background-color:lightgrey;border:1px solid black;padding:20px;
